@@ -1,0 +1,10 @@
+run:
+Enter a value for the length of the first side. 
+2
+Enter a value for the length of the second side. 
+6
+Enter a value for the length of the third side. 
+3
+The lengths of each side are 2 6 3.
+The length values of the sides do not form a triangle.
+BUILD SUCCESSFUL (total time: 10 seconds)

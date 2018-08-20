@@ -1,0 +1,11 @@
+run:
+Enter a value for the length of the first side. 
+13
+Enter a value for the length of the second side. 
+5
+Enter a value for the length of the third side. 
+12
+The lengths of each side are 13 5 12.
+Acute Triangle.
+The area of the triangle is 30.0
+BUILD SUCCESSFUL (total time: 15 seconds)

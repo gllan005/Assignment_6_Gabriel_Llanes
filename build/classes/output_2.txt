@@ -1,0 +1,11 @@
+run:
+Enter a value for the length of the first side. 
+4
+Enter a value for the length of the second side. 
+3
+Enter a value for the length of the third side. 
+5
+The lengths of each side are 4 3 5.
+Right Triangle.
+The area of the triangle is 6.0
+BUILD SUCCESSFUL (total time: 6 seconds)

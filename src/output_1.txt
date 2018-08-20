@@ -1,0 +1,11 @@
+run:
+Enter a value for the length of the first side. 
+9
+Enter a value for the length of the second side. 
+9
+Enter a value for the length of the third side. 
+9
+The lengths of each side are 9 9 9.
+Equilateral
+The area of the triangle is 35.074028853269766
+BUILD SUCCESSFUL (total time: 23 seconds)
